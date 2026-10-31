@@ -5,10 +5,6 @@ int func(int a, int b){
     return a+b;
 }
 
-int sub(int a, int b){
-    return a-b;
-}
-
 int main(){
     int a, b;
     cout << "Enter two number : ";
